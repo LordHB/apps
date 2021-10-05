@@ -11,75 +11,75 @@
 	         },
 		{
 		"title": "The Rops is Tied",
-		"link": "https://ls9.arabmelody.net/1758/L7n_me_7alf_Manoldelk_-_Shabh_Sham_37919.mp3"
+		"link": "https://raw.githubusercontent.com/LordHB/apps/main/M3.mp3"
 	         },
 		{
 		"title": "Pink Soldiers",
-		"link": "https://ls9.arabmelody.net/1758/L7n_me_7alf_Manoldelk_-_Shabh_Sham_37919.mp3"
+		"link": "https://raw.githubusercontent.com/LordHB/apps/main/M4.mp3"
 	         },
 		{
 		"title": "Hostage Crisis",
-		"link": "https://ls9.arabmelody.net/1758/L7n_me_7alf_Manoldelk_-_Shabh_Sham_37919.mp3"
+		"link": "https://raw.githubusercontent.com/LordHB/apps/main/M5.mp3"
 	         },
 		{
 		"title": "I Remember My Name",
-		"link": "https://ls9.arabmelody.net/1758/L7n_me_7alf_Manoldelk_-_Shabh_Sham_37919.mp3"
+		"link": "https://raw.githubusercontent.com/LordHB/apps/main/M6.mp3"
 	         },
 		{
 		"title": "Unfolded",
-		"link": "https://ls9.arabmelody.net/1758/L7n_me_7alf_Manoldelk_-_Shabh_Sham_37919.mp3"
+		"link": "https://raw.githubusercontent.com/LordHB/apps/main/M7.mp3"
 	         },
 		{
 		"title": "Needles and Dalgona",
-		"link": "https://ls9.arabmelody.net/1758/L7n_me_7alf_Manoldelk_-_Shabh_Sham_37919.mp3"
+		"link": "https://raw.githubusercontent.com/LordHB/apps/main/M8.mp3"
 	         },
 		{
 		"title": "The Fat and the Rats",
-		"link": "https://ls9.arabmelody.net/1758/L7n_me_7alf_Manoldelk_-_Shabh_Sham_37919.mp3"
+		"link": "https://raw.githubusercontent.com/LordHB/apps/main/M9.mp3"
 	         },
 		{
 		"title": "It Hurts So Bad",
-		"link": "https://ls9.arabmelody.net/1758/L7n_me_7alf_Manoldelk_-_Shabh_Sham_37919.mp3"
+		"link": "https://raw.githubusercontent.com/LordHB/apps/main/M10.mp3"
 	         },
 		{
 		"title": "Delivery",
-		"link": "https://ls9.arabmelody.net/1758/L7n_me_7alf_Manoldelk_-_Shabh_Sham_37919.mp3"
+		"link": "https://raw.githubusercontent.com/LordHB/apps/main/M11.mp3"
 	         },
 		{
 		"title": "Dead End",
-		"link": "https://ls9.arabmelody.net/1758/L7n_me_7alf_Manoldelk_-_Shabh_Sham_37919.mp3"
+		"link": "https://raw.githubusercontent.com/LordHB/apps/main/M12.mp3"
 	         },
 		{
 		"title": "Round VI",
-		"link": "https://ls9.arabmelody.net/1758/L7n_me_7alf_Manoldelk_-_Shabh_Sham_37919.mp3"
+		"link": "https://raw.githubusercontent.com/LordHB/apps/main/M13.mp3"
 	         },
 		{
 		"title": "Wife, Husband and 4.56 Billion",
-		"link": "https://ls9.arabmelody.net/1758/L7n_me_7alf_Manoldelk_-_Shabh_Sham_37919.mp3"
+		"link": "https://raw.githubusercontent.com/LordHB/apps/main/M14.mp3"
 	         },
 		{
 		"title": "Murder Without Violence",
-		"link": "https://ls9.arabmelody.net/1758/L7n_me_7alf_Manoldelk_-_Shabh_Sham_37919.mp3"
+		"link": "https://raw.githubusercontent.com/LordHB/apps/main/M15.mp3"
 	         },
 		{
 		"title": "Slaughterhouse III",
-		"link": "https://ls9.arabmelody.net/1758/L7n_me_7alf_Manoldelk_-_Shabh_Sham_37919.mp3"
+		"link": "https://raw.githubusercontent.com/LordHB/apps/main/M16.mp3"
 	         },
 		{
 		"title": "Owe",
-		"link": "https://ls9.arabmelody.net/1758/L7n_me_7alf_Manoldelk_-_Shabh_Sham_37919.mp3"
+		"link": "https://raw.githubusercontent.com/LordHB/apps/main/M17.mp3"
 	         },
 		{
 		"title": "Uh...",
-		"link": "https://ls9.arabmelody.net/1758/L7n_me_7alf_Manoldelk_-_Shabh_Sham_37919.mp3"
+		"link": "https://raw.githubusercontent.com/LordHB/apps/main/M18.mp3"
 	         },
 		{
 		"title": "Dawn",
-		"link": "https://ls9.arabmelody.net/1758/L7n_me_7alf_Manoldelk_-_Shabh_Sham_37919.mp3"
+		"link": "https://raw.githubusercontent.com/LordHB/apps/main/M19.mp3"
 	         },
 		{
 		"title": "Let’s Go Out Tonight",
-		"link": "https://ls9.arabmelody.net/1758/L7n_me_7alf_Manoldelk_-_Shabh_Sham_37919.mp3"
+		"link": "https://raw.githubusercontent.com/LordHB/apps/main/M20.mp3"
 	         }
 	],
 
@@ -87,9 +87,9 @@
 	"popAppName": "Follow Me for more Apps",
 	"popAppImage": "https://cdn6.aptoide.com/imgs/0/7/4/0747d0c2886ac53797e380d540d394ab_icon.png?w",
 	"popAppPackage": "cee",
-	"popAppIsActive": true,
+	"popAppIsActive": false,
 
-	"APP_KEY": "114e085cd",
+	"APP_KEY": "114e08",
 	"BANNER_PLACEMENT": "DefaultBanner",
 	"INTERSTITIAL_PLACEMENT": "DefaultInterstitial"
 
