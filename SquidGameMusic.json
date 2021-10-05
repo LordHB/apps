@@ -1,18 +1,19 @@
 {
 
-	"songs": [{
+	"songs": [
+		{
 		"title": "Cheb Khaled",
 		"link": "https://ls9.arabmelody.net/1758/L7n_me_7alf_Manoldelk_-_Shabh_Sham_37919.mp3"
-	}],
-
-
-	"sorryMessage": "We Are Sorry, The Application Not Available for this time, we are update our system, you can check the app after 24h, you can install the version pro.",
+	         },
+		"title": "Cheb Khaled2",
+		"link": "https://ls9.arabmelody.net/1758/L7n_me_7alf_Manoldelk_-_Shabh_Sham_37919.mp3"
+	         }
+	],
 
 	"popAppLink": "https://www.instagram.com/hamzabouattaoine/",
 	"popAppName": "Follow Me for more Apps",
 	"popAppImage": "https://cdn6.aptoide.com/imgs/0/7/4/0747d0c2886ac53797e380d540d394ab_icon.png?w",
 	"popAppPackage": "cee",
-	"URL_APP": "https://www.instagram.com/hamzabouattaoine/",
 	"popAppIsActive": true,
 
 	"APP_KEY": "114e085cd",
