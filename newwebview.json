@@ -20,9 +20,9 @@
 	"popAppPackage": "cp",
 	"popAppIsActive": false,
 
-	"BUTTON_NAME_1": "العربية",
-	"BUTTON_NAME_2": "Francais",
-	"BUTTON_NAME_3": "Anglais",
+	"BUTTON_NAME_1": "",
+	"BUTTON_NAME_2": "",
+	"BUTTON_NAME_3": "",
 	"BUTTON_NAME_4": "",
 
 	"BUTTON_URL_1": "https://www.gheir.com/",
