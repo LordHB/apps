@@ -20,10 +20,10 @@
 	"popAppPackage": "cp",
 	"popAppIsActive": false,
 
-	"BUTTON_NAME_1": "",
-	"BUTTON_NAME_2": "",
-	"BUTTON_NAME_3": "",
-	"BUTTON_NAME_4": "",
+	"BUTTON_NAME_1": "1",
+	"BUTTON_NAME_2": "2",
+	"BUTTON_NAME_3": "3",
+	"BUTTON_NAME_4": "4",
 
 	"BUTTON_URL_1": "https://www.gheir.com/",
 	"BUTTON_URL_2": "https://www.gheir.com/",
