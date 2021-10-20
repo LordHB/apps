@@ -9,23 +9,23 @@
 
 	"whichAds": 0,
 
-	"MoreApps": "h3116631",
+	"MoreApps": "https://play.google.com/store/apps/developer?id=LordHB",
 	"PrivacyPolicy": "https://sites.google.com/view/lordhbprivacy-policy/home",
 
 	"button1": "مرحبا سيدتي",
 
-	"popAppLink": "htp",
-	"popAppName": "Gap",
-	"popAppImage": "h2.png",
-	"popAppPackage": "cp",
-	"popAppIsActive": false,
+	"popAppLink": "https://www.instagram.com/gheir/",
+	"popAppName": "instagram",
+	"popAppImage": "https://static10.tgstat.ru/channels/_0/e6/e67b37a8ce13dd9b30c54b1c728e993d.jpg",
+	"popAppPackage": "https://play.google.com/store/apps/details?id=com.gheirmag.gheirwomen",
+	"popAppIsActive": true,
 
-	"BUTTON_NAME_1": "العربية",
+	"BUTTON_NAME_1": "Gheir - غير",
 	"BUTTON_NAME_2": "",
 	"BUTTON_NAME_3": "",
 	"BUTTON_NAME_4": "",
 
-	"BUTTON_URL_1": "https://sites.google.com/view/lordhbprivacy-policy/home",
+	"BUTTON_URL_1": "https://www.gheir.com/",
 
 	"BUTTON_URL_2": "",
 	"BUTTON_URL_3": "",
