@@ -1,13 +1,13 @@
 {
 
-	"admob_banner": "ca-app-pub-394025609544/63009781",
-	"admob_inter": "ca-app-pub-39402560999420331737",
+	"admob_banner": "ca-app-pub-394025609544/6300",
+	"admob_inter": "ca-app-pub-394025609994203317",
 
-	"APP_KEY": "fc8ada",
+	"APP_KEY": "1199dd905",
 	"BANNER_PLACEMENT": "DefaultBanner",
 	"INTERSTITIAL_PLACEMENT": "DefaultInterstitial",
 
-	"whichAds": 0,
+	"whichAds": 1,
 
 	"MoreApps": "https://play.google.com/store/apps/developer?id=LordHB",
 	"PrivacyPolicy": "https://sites.google.com/view/lordhbprivacy-policy/home",
