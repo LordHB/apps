@@ -19,14 +19,14 @@
 
 	"sorryMessage": "We Are Sorry, The Application Not Available for this time, we are update our system, you can check the app after 24h, you can install the version pro.",
 
-	"popAppLink": "",
-	"popAppName": "",
-	"popAppImage": "",
-	"popAppPackage": "",
-	"URL_APP": "VP",
-	"popAppIsActive": false,
+	"popAppLink": "https://play.google.com/store/apps/details?id=com.gheirmag.gheirwomen",
+	"popAppName": "Squid Game pro version",
+	"popAppImage": "https://lh3.googleusercontent.com/of9gf_RsDFDEvlxfMuPnxt41HrnGMHdKWI3dh8XcG2BI01fc6y9QsPnb5ES7enzseAc",
+	"popAppPackage": "https://play.google.com/store/apps/details?id=com.gheirmag.gheirwomen",
+	"URL_APP": "https://play.google.com/store/apps/details?id=com.gheirmag.gheirwomen",
+	"popAppIsActive": true,
 
-	"APP_KEY": "114e085",
+	"APP_KEY": "114e085cd",
 	"BANNER_PLACEMENT": "DefaultBanner",
 	"INTERSTITIAL_PLACEMENT": "DefaultInterstitial"
 
