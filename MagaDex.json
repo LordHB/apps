@@ -21,13 +21,13 @@
 	"popAppIsActive": true,
 
 	"BUTTON_NAME_1": "MangaDex",
-	"BUTTON_NAME_2": "",
-	"BUTTON_NAME_3": "",
+	"BUTTON_NAME_2": "Manga Kakalot",
+	"BUTTON_NAME_3": "Manga Go",
 	"BUTTON_NAME_4": "",
 
 	"BUTTON_URL_1": "https://mangadex.org/",
-	"BUTTON_URL_2": "",
-	"BUTTON_URL_3": "",
+	"BUTTON_URL_2": "https://mangakakalot.com/",
+	"BUTTON_URL_3": "https://www.mangago.me/",
 	"BUTTON_URL_4": ""
 
 }
