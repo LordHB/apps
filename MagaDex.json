@@ -1,32 +1,32 @@
 {
 
-	"admob_banner": "ca-app-pub-394025609544/6300978111",
-	"admob_inter": "ca-app-pub-3940256099942033173712",
+	"admob_banner": "ca-app-pub-394025609544/630097",
+	"admob_inter": "ca-app-pub-39402560999420331",
 
-	"APP_KEY": "fc8adac9",
+	"APP_KEY": "",
 	"BANNER_PLACEMENT": "DefaultBanner",
 	"INTERSTITIAL_PLACEMENT": "DefaultInterstitial",
 
-	"whichAds": 0,
+	"whichAds": 1,
 
-	"MoreApps": "h3116631",
+	"MoreApps": "https://play.google.com/store/apps/developer?id=LordHB",
 	"PrivacyPolicy": "https://sites.google.com/view/lordhbprivacy-policy/home",
 
 	"button1": "Welcome",
 
-	"popAppLink": "htp",
-	"popAppName": "Gap",
-	"popAppImage": "h2.png",
-	"popAppPackage": "cp",
-	"popAppIsActive": false,
+	"popAppLink": "https://play.google.com/store/apps/details?id=com.readmangainenglish.worldfantasy",
+	"popAppName": "IsekaiScan - Read Manga",
+	"popAppImage": "https://play-lh.googleusercontent.com/sgJYkjgsbTVf-ceJjhD_wiEvZ2tJDfFqaRTjyvtkyxqjDjdAm811OlAGMlYhObt4rg",
+	"popAppPackage": "https://play.google.com/store/apps/details?id=com.readmangainenglish.worldfantasy",
+	"popAppIsActive": true,
 
-	"BUTTON_NAME_1": "Read on ligne",
-	"BUTTON_NAME_2": "",
+	"BUTTON_NAME_1": "MangaDex",
+	"BUTTON_NAME_2": "MangaDex TV",
 	"BUTTON_NAME_3": "",
 	"BUTTON_NAME_4": "",
 
-	"BUTTON_URL_1": "https://sites.google.com/view/lordhbprivacy-policy/home",
-	"BUTTON_URL_2": "",
+	"BUTTON_URL_1": "https://mangadex.org/",
+	"BUTTON_URL_2": "https://mangadex.tv/",
 	"BUTTON_URL_3": "",
 	"BUTTON_URL_4": ""
 
