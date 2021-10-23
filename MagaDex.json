@@ -21,12 +21,12 @@
 	"popAppIsActive": true,
 
 	"BUTTON_NAME_1": "MangaDex",
-	"BUTTON_NAME_2": "MangaDex TV",
+	"BUTTON_NAME_2": "",
 	"BUTTON_NAME_3": "",
 	"BUTTON_NAME_4": "",
 
 	"BUTTON_URL_1": "https://mangadex.org/",
-	"BUTTON_URL_2": "https://mangadex.tv/",
+	"BUTTON_URL_2": "",
 	"BUTTON_URL_3": "",
 	"BUTTON_URL_4": ""
 
