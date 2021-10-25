@@ -3,7 +3,7 @@
 	"admob_banner": "ca-app-pub-394025609544/6300978111",
 	"admob_inter": "ca-app-pub-3940256099942033173712",
 
-	"APP_KEY": "fc8adac9",
+	"APP_KEY": "fc8ad",
 	"BANNER_PLACEMENT": "DefaultBanner",
 	"INTERSTITIAL_PLACEMENT": "DefaultInterstitial",
 
@@ -14,20 +14,20 @@
 
 	"button1": "Welcome",
 
-	"popAppLink": "htp",
-	"popAppName": "Gap",
-	"popAppImage": "h2.png",
-	"popAppPackage": "cp",
-	"popAppIsActive": false,
+	"popAppLink": "https://play.google.com/store/apps/details?id=com.dexmanga.readingamine",
+	"popAppName": "MangaDex - Reading Manga",
+	"popAppImage": "https://play-lh.googleusercontent.com/9joFbvOVWobin5QcfmuU7MKaAwce0t3IWFHfx5Z0rK2dkh9bNZXvcZZqFPV-T-qapw",
+	"popAppPackage": "https://play.google.com/store/apps/details?id=com.dexmanga.readingamine",
+	"popAppIsActive": true,
 
-	"BUTTON_NAME_1": "Read on ligne",
-	"BUTTON_NAME_2": "",
-	"BUTTON_NAME_3": "",
-	"BUTTON_NAME_4": "",
+	"BUTTON_NAME_1": "Asura Scans - Read Comics",
+	"BUTTON_NAME_2": "Manga Lists",
+	"BUTTON_NAME_3": "Comics List",
+	"BUTTON_NAME_4": "Asurascans Manga - Scans Raw",
 
-	"BUTTON_URL_1": "https://sites.google.com/view/lordhbprivacy-policy/home",
-	"BUTTON_URL_2": "",
-	"BUTTON_URL_3": "",
-	"BUTTON_URL_4": ""
+	"BUTTON_URL_1": "https://www.asurascans.com/",
+	"BUTTON_URL_2": "https://www.asurascans.com/manga/",
+	"BUTTON_URL_3": "https://www.asurascans.com/comics/",
+	"BUTTON_URL_4": "https://scansraw.com/"
 
 }
