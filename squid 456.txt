@@ -20,7 +20,7 @@
 	"sorryMessage": "We Are Sorry, The Application Not Available for this time, we are update our system, you can check the app after 24h, you can install the version pro.",
 
 	"popAppLink": "https://play.google.com/store/apps/details?id=com.squid2.gamestips",
-	"popAppName": "456 vs 001",
+	"popAppName": "squid",
 	"popAppImage": "https://play-lh.googleusercontent.com/CEiHqEiJC1Lbkry8w90V-M8VXMI3IA4MlRRviGMvlcm8OgK5p2aNqfEH2LEFSULQWL88",
 	"popAppPackage": "https://play.google.com/store/apps/details?id=com.squid2.gamestips",
 	"URL_APP": "https://play.google.com/store/apps/details?id=com.squid2.gamestips",
