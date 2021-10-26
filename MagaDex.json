@@ -14,10 +14,10 @@
 
 	"button1": "Welcome",
 
-	"popAppLink": "https://play.google.com/store/apps/details?id=com.readmangainenglish.worldfantasy",
-	"popAppName": "IsekaiScan - Read Manga",
-	"popAppImage": "https://play-lh.googleusercontent.com/sgJYkjgsbTVf-ceJjhD_wiEvZ2tJDfFqaRTjyvtkyxqjDjdAm811OlAGMlYhObt4rg",
-	"popAppPackage": "https://play.google.com/store/apps/details?id=com.readmangainenglish.worldfantasy",
+	"popAppLink": "https://play.google.com/store/apps/details?id=com.readmangaonligne.scaneasura",
+	"popAppName": "AsuraScan - Read Comics",
+	"popAppImage": "https://play-lh.googleusercontent.com/h4JbwNz0Z2fGzQUYvY7gFM3_8kicfB1qeahjLty-WzNxppgtPpqwt5V2-H5sN3jxUEA",
+	"popAppPackage": "https://play.google.com/store/apps/details?id=com.readmangaonligne.scaneasura",
 	"popAppIsActive": true,
 
 	"BUTTON_NAME_1": "MangaDex",
