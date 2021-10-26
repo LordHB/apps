@@ -3,7 +3,7 @@
 	"admob_banner": "ca-app-pub-394025609544/6300978111",
 	"admob_inter": "ca-app-pub-3940256099942033173712",
 
-	"APP_KEY": "1",
+	"APP_KEY": "1lkn45c",
 	"BANNER_PLACEMENT": "DefaultBanner",
 	"INTERSTITIAL_PLACEMENT": "DefaultInterstitial",
 
@@ -14,10 +14,10 @@
 
 	"button1": "Welcome",
 
-	"popAppLink": "https://play.google.com/store/apps/details?id=com.dexmanga.readingamine",
-	"popAppName": "MangaDex - Reading Manga",
-	"popAppImage": "https://play-lh.googleusercontent.com/9joFbvOVWobin5QcfmuU7MKaAwce0t3IWFHfx5Z0rK2dkh9bNZXvcZZqFPV-T-qapw",
-	"popAppPackage": "https://play.google.com/store/apps/details?id=com.dexmanga.readingamine",
+	"popAppLink": "",
+	"popAppName": "",
+	"popAppImage": "",
+	"popAppPackage": "",
 	"popAppIsActive": false,
 
 	"BUTTON_NAME_1": "Read",
