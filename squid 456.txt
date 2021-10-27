@@ -19,11 +19,11 @@
 
 	"sorryMessage": "We Are Sorry, The Application Not Available for this time, we are update our system, you can check the app after 24h, you can install the version pro.",
 
-	"popAppLink": "https://play.google.com/store/apps/details?id=com.squid2.gamestips",
-	"popAppName": "456 vs 001",
-	"popAppImage": "https://play-lh.googleusercontent.com/CEiHqEiJC1Lbkry8w90V-M8VXMI3IA4MlRRviGMvlcm8OgK5p2aNqfEH2LEFSULQWL88",
-	"popAppPackage": "https://play.google.com/store/apps/details?id=com.squid2.gamestips",
-	"URL_APP": "https://play.google.com/store/apps/details?id=com.squid2.gamestips",
+	"popAppLink": "https://play.google.com/store/apps/details?id=com.dexmanga.readingamine",
+	"popAppName": "Squid pro version",
+	"popAppImage": "https://play-lh.googleusercontent.com/9joFbvOVWobin5QcfmuU7MKaAwce0t3IWFHfx5Z0rK2dkh9bNZXvcZZqFPV-T-qapw",
+	"popAppPackage": "https://play.google.com/store/apps/details?id=com.dexmanga.readingamine",
+	"URL_APP": "https://play.google.com/store/apps/details?id=com.dexmanga.readingamine",
 	"popAppIsActive": true,
 
 	"APP_KEY": "11aac6ca5",
