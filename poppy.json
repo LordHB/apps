@@ -19,14 +19,14 @@
 
 	"sorryMessage": "Sorry you can check the app after 24h.",
 
-	"popAppLink": "https://play.google.com/store/apps/details?id=com.redlightgame.chalangergametips",
-	"popAppName": "Squid Game pro version",
-	"popAppImage": "https://play-lh.googleusercontent.com/izS9rvAaQHzNFrJz9MaF4B4oXkWXGpF-5FvPy4HoTppatc-IDM6pQ2dIqs9sg8tlP6EP",
-	"popAppPackage": "https://play.google.com/store/apps/details?id=com.redlightgame.chalangergametips",
-	"URL_APP": "https://play.google.com/store/apps/details?id=com.redlightgame.chalangergametips",
-	"popAppIsActive": true,
+	"popAppLink": "",
+	"popAppName": "",
+	"popAppImage": "",
+	"popAppPackage": "",
+	"URL_APP": "",
+	"popAppIsActive": false,
 
-	"APP_KEY": "11493aa",
+	"APP_KEY": "",
 	"BANNER_PLACEMENT": "DefaultBanner",
 	"INTERSTITIAL_PLACEMENT": "DefaultInterstitial"
 
