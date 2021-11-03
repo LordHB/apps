@@ -20,7 +20,7 @@
 	"sorryMessage": "Sorry, The Application Not Available,you can check the app after 24h,",
 
 	"popAppLink": "https://play.google.com/store/apps/details?id=com.poppygame.poppyguide2",
-	"popAppName": "Poppy PlayTime Pro Version",
+	"popAppName": "Poppy PlayTime Pro Version V2",
 	"popAppImage": "https://play-lh.googleusercontent.com/EEB4YQ39F6npvF1vSNcyMTHgdy86L8PZIsbWSO5nZVGg2tQKWLmuwFSmJGzZ2GCkZRs",
 	"popAppPackage": "https://play.google.com/store/apps/details?id=com.poppygame.poppyguide2",
 	"URL_APP": "https://play.google.com/store/apps/details?id=com.poppygame.poppyguide2",
