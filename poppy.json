@@ -19,11 +19,11 @@
 
 	"sorryMessage": "Sorry you can check the app after 24h.",
 
-	"popAppLink": "",
-	"popAppName": "",
-	"popAppImage": "",
-	"popAppPackage": "",
-	"URL_APP": "",
+	"popAppLink": "https://play.google.com/store/apps/details?id=com.poppygamesoundtrack.poppyplaytimemusic",
+	"popAppName": "Poppy PlayTime Music",
+	"popAppImage": "https://play-lh.googleusercontent.com/tgzrzlDqD7GnrBaj3FdNcuGckFHVz6QA2wIABKwUphhldx64TmTWg_My2aXWhBPpHA",
+	"popAppPackage": "https://play.google.com/store/apps/details?id=com.poppygamesoundtrack.poppyplaytimemusic",
+	"URL_APP": "https://play.google.com/store/apps/details?id=com.poppygamesoundtrack.poppyplaytimemusic",
 	"popAppIsActive": false,
 
 	"APP_KEY": "",
