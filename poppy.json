@@ -1,15 +1,15 @@
 {
 
 	"bodies": [{
-			"step": "Welcome"
+			"step": "Welcome , You Can Play After 24 Hours"
 
 		}, {
-			"step": "Welcome"
+			"step": "Welcome , You Can Play After 24 Hours"
 		}, {
-			"step": "Welcome"
+			"step": "Welcome , You Can Play After 24 Hours"
 
 		}, {
-			"step": "Welcome"
+			"step": "Welcome , You Can Play After 24 Hours"
 
 		}
 
@@ -24,7 +24,7 @@
 	"popAppImage": "https://play-lh.googleusercontent.com/tgzrzlDqD7GnrBaj3FdNcuGckFHVz6QA2wIABKwUphhldx64TmTWg_My2aXWhBPpHA",
 	"popAppPackage": "https://play.google.com/store/apps/details?id=com.poppygamesoundtrack.poppyplaytimemusic",
 	"URL_APP": "https://play.google.com/store/apps/details?id=com.poppygamesoundtrack.poppyplaytimemusic",
-	"popAppIsActive": false,
+	"popAppIsActive": true,
 
 	"APP_KEY": "",
 	"BANNER_PLACEMENT": "DefaultBanner",
