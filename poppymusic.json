@@ -22,7 +22,6 @@
 					"title": "M1",
 					"link": "https://raw.githubusercontent.com/LordHB/apps/main/002.mp3"
 				},
-				  
 				{
 					"title": "M2",
 					"link": "https://raw.githubusercontent.com/LordHB/apps/main/002.mp3"
@@ -62,12 +61,12 @@
 			"title": "COMING SOON MORE MUSIC",
 			"image": "https://img.freepik.com/free-vector/coming-soon-banner-with-brick-wall_19426-797.jpg?size=626&ext=jpg",
 			"songs": [{
-					"title": "M1",
-					"link": "https://raw.githubusercontent.com/LordHB/apps/main/001.mp3"
+					"title": "",
+					"link": ""
 				},
 				{
-					"title": "M2",
-					"link": "https://raw.githubusercontent.com/LordHB/apps/main/005.mp3"
+					"title": "",
+					"link": ""
 				}
 			]
 		}
