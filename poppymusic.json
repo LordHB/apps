@@ -61,11 +61,11 @@
 			"title": "COMING SOON MORE MUSIC",
 			"image": "https://img.freepik.com/free-vector/coming-soon-banner-with-brick-wall_19426-797.jpg?size=626&ext=jpg",
 			"songs": [{
-					"title": "",
-					"link": ""
+					"title": "Coming Soon",
+					"link": "https://play.google.com/store/apps/details?id=com.dexmanga.readingamine"
 				},
 				{
-					"title": "",
+					"title": "Coming Soon",
 					"link": ""
 				}
 			]
