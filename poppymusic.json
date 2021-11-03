@@ -4,79 +4,70 @@
 
 		{
 			"title": "Poppy PlayTime",
-			"image": "https://static2.srcdn.com/wordpress/wp-content/uploads/2021/10/Poppy-Playtime-Blurred-Background-With-Logo.jpg",
+			"image": "https://i.ytimg.com/vi/j1FHIVLHaC4/hqdefault.jpg",
 			"songs": [{
 					"title": "M1",
 					"link": "https://raw.githubusercontent.com/LordHB/apps/main/001.mp3"
 				},
 				{
 					"title": "M2",
-					"link": "https://raw.githubusercontent.com/LordHB/apps/main/001.mp3"
+					"link": "https://raw.githubusercontent.com/LordHB/apps/main/005.mp3"
 				}
 			]
 		},
 		{
 			"title": "Cartoon Dog",
-			"image": "https://everymantheatre.co.uk/wp-content/uploads/2017/05/CHAPTER.jpg",
+			"image": "https://i.ytimg.com/vi/drhqlbciI2I/hqdefault.jpg",
 			"songs": [{
 					"title": "M1",
-					"link": "https://raw.githubusercontent.com/LordHB/apps/main/M1.mp3"
+					"link": "https://raw.githubusercontent.com/LordHB/apps/main/002.mp3"
 				},
+				  
 				{
 					"title": "M2",
-					"link": "https://raw.githubusercontent.com/LordHB/apps/main/M2.mp3"
-				},
-				{
-					"title": "M3",
-					"link": "https://raw.githubusercontent.com/LordHB/apps/main/M3.mp3"
-				},
-				{
-					"title": "M4",
-					"link": "https://raw.githubusercontent.com/LordHB/apps/main/M4.mp3"
+					"link": "https://raw.githubusercontent.com/LordHB/apps/main/002.mp3"
 				}
 			]
 		},
 		
 		{
-			"title": "Chapter  3",
-			"image": "https://everymantheatre.co.uk/wp-content/uploads/2017/05/CHAPTER.jpg",
+			"title": "Cartoon Cat",
+			"image": "https://i.ytimg.com/vi/TNOWHHYZCzI/hqdefault.jpg",
 			"songs": [{
 					"title": "M1",
-					"link": "https://raw.githubusercontent.com/LordHB/apps/main/M1.mp3"
+					"link": "https://raw.githubusercontent.com/LordHB/apps/main/003.mp3"
 				},
 				{
 					"title": "M2",
-					"link": "https://raw.githubusercontent.com/LordHB/apps/main/M2.mp3"
-				},
-				{
-					"title": "M3",
-					"link": "https://raw.githubusercontent.com/LordHB/apps/main/M3.mp3"
-				},
-				{
-					"title": "M4",
-					"link": "https://raw.githubusercontent.com/LordHB/apps/main/M4.mp3"
+					"link": "https://raw.githubusercontent.com/LordHB/apps/main/005.mp3"
 				}
 			]
 		},
 		
 		{
-			"title": "Chapter  4",
-			"image": "https://everymantheatre.co.uk/wp-content/uploads/2017/05/CHAPTER.jpg",
+			"title": "House OF NightMars",
+			"image": "https://i.ytimg.com/vi/19YbWYf6QAY/hqdefault.jpg",
 			"songs": [{
 					"title": "M1",
-					"link": "https://raw.githubusercontent.com/LordHB/apps/main/M1.mp3"
+					"link": "https://raw.githubusercontent.com/LordHB/apps/main/004.mp3"
 				},
 				{
 					"title": "M2",
-					"link": "https://raw.githubusercontent.com/LordHB/apps/main/M2.mp3"
+					"link": "https://raw.githubusercontent.com/LordHB/apps/main/005.mp3"
+				}
+			]
+		},
+		
+		{
+			"title": "COMING SOON MORE MUSIC",
+			"image": "https://img.freepik.com/free-vector/coming-soon-banner-with-brick-wall_19426-797.jpg?size=626&ext=jpg",
+			"songs": [{
+					"title": "M1",
+					"link": "https://raw.githubusercontent.com/LordHB/apps/main/001.mp3"
 				},
 				{
-					"title": "M3",
-					"link": "https://raw.githubusercontent.com/LordHB/apps/main/M3.mp3"
-				},
-				{
-					"title": "M4",
-					"link": "https://raw.githubusercontent.com/LordHB/apps/main/M4.mp3"
+					"title": "M2",
+					"link": "https://raw.githubusercontent.com/LordHB/apps/main/005.mp3"
 				}
 			]
 		}
