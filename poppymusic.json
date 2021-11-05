@@ -56,6 +56,45 @@
 				}
 			]
 		},
+		{
+			"title": "AMONG US SONG",
+			"image": "https://i.ytimg.com/vi/DbYgzp_TZrs/hqdefault.jpg",
+			"songs": [{
+					"title": "M1",
+					"link": "https://raw.githubusercontent.com/LordHB/apps/main/006.mp3"
+				},
+				{
+					"title": "M2",
+					"link": "https://raw.githubusercontent.com/LordHB/apps/main/005.mp3"
+				}
+			]
+		},
+		{
+			"title": "FALL GUYS SONG",
+			"image": "https://i.ytimg.com/vi/nfjqKvUh1iE/hqdefault.jpg",
+			"songs": [{
+					"title": "M1",
+					"link": "https://raw.githubusercontent.com/LordHB/apps/main/007.mp3"
+				},
+				{
+					"title": "M2",
+					"link": "https://raw.githubusercontent.com/LordHB/apps/main/005.mp3"
+				}
+			]
+		},
+		{
+			"title": "CUPHEAD SONG",
+			"image": "https://i.ytimg.com/vi/cNepDj4MLME/hqdefault.jpg",
+			"songs": [{
+					"title": "M1",
+					"link": "https://raw.githubusercontent.com/LordHB/apps/main/008.mp3"
+				},
+				{
+					"title": "M2",
+					"link": "https://raw.githubusercontent.com/LordHB/apps/main/005.mp3"
+				}
+			]
+		},
 		
 		{
 			"title": "COMING SOON MORE MUSIC",
