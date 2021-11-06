@@ -95,6 +95,32 @@
 				}
 			]
 		},
+		{
+			"title": "Mickey Mouse Song",
+			"image": "https://i.ytimg.com/vi/Ej9BOrUWLv8/hqdefault.jpg",
+			"songs": [{
+					"title": "M1",
+					"link": "https://raw.githubusercontent.com/LordHB/apps/main/009.mp3"
+				},
+				{
+					"title": "M2",
+					"link": "https://raw.githubusercontent.com/LordHB/apps/main/005.mp3"
+				}
+			]
+		},
+		{
+			"title": "BALDI'S BASICS RAP",
+			"image": "https://i.ytimg.com/vi/mBpQD8neWLw/hqdefault.jpg",
+			"songs": [{
+					"title": "M1",
+					"link": "https://raw.githubusercontent.com/LordHB/apps/main/010.mp3"
+				},
+				{
+					"title": "M2",
+					"link": "https://raw.githubusercontent.com/LordHB/apps/main/005.mp3"
+				}
+			]
+		},
 		
 		{
 			"title": "COMING SOON MORE MUSIC EVERY DAY",
