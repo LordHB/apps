@@ -24,7 +24,7 @@
 				},
 				{
 					"title": "M2",
-					"link": "https://raw.githubusercontent.com/LordHB/apps/main/002.mp3"
+					"link": "https://raw.githubusercontent.com/LordHB/apps/main/005.mp3"
 				}
 			]
 		},
@@ -114,6 +114,34 @@
 			"songs": [{
 					"title": "M1",
 					"link": "https://raw.githubusercontent.com/LordHB/apps/main/010.mp3"
+				},
+				{
+					"title": "M2",
+					"link": "https://raw.githubusercontent.com/LordHB/apps/main/005.mp3"
+				}
+			]
+		},
+		
+		{
+			"title": "Bill Cipher Returns ▶ BILL CIPHER RAP",
+			"image": "https://i.ytimg.com/vi/oP0BFeZ0p-A/hqdefault.jpg",
+			"songs": [{
+					"title": "M1",
+					"link": "https://raw.githubusercontent.com/LordHB/apps/main/011.mp3"
+				},
+				{
+					"title": "M2",
+					"link": "https://raw.githubusercontent.com/LordHB/apps/main/005.mp3"
+				}
+			]
+		},
+		
+		{
+			"title": "FNAF 4 REMIX ▶ The Living Tombstone",
+			"image": "https://i.ytimg.com/vi/mXdcqgY_x84/hqdefault.jpg",
+			"songs": [{
+					"title": "M1",
+					"link": "https://raw.githubusercontent.com/LordHB/apps/main/012.mp3"
 				},
 				{
 					"title": "M2",
