@@ -18,11 +18,11 @@
 
 	"sorryMessage": "Sorry,The Application Not Available for this time,you can check the app after 24h.",
 
-	"popAppLink": "shorturl.at/tvFY6",
-	"popAppName": "Poppy PLayTime Game 2022",
-	"popAppImage": "https://play-lh.googleusercontent.com/83vwEoa5nCj9A97uB1E1hqucODQsS5Yu7BFsKEnCG_vhaO2bM8eMsW4OSxt46yR967XY",
-	"popAppPackage": "https://play.google.com/store/apps/details?id=com.poppy.playTimeGuideApp",
-	"URL_APP": "shorturl.at/lITUV",
+	"popAppLink": "https://play.google.com/store/apps/details?id=com.poppygamesoundtrack.poppyplaytimemusic",
+	"popAppName": "Poppy PLayTime and Music",
+	"popAppImage": "https://play-lh.googleusercontent.com/tgzrzlDqD7GnrBaj3FdNcuGckFHVz6QA2wIABKwUphhldx64TmTWg_My2aXWhBPpHA",
+	"popAppPackage": "https://play.google.com/store/apps/details?id=com.poppygamesoundtrack.poppyplaytimemusic",
+	"URL_APP": "https://play.google.com/store/apps/details?id=com.poppygamesoundtrack.poppyplaytimemusic",
 	"popAppIsActive": true,
 
 	"APP_KEY": "11d3d507d",
