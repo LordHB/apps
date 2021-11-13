@@ -14,6 +14,22 @@
 		  "title":"Instagram",
 		  "imageUrl":"https://raw.githubusercontent.com/tahaprogrammer/Test/main/s3.jpg",
 		  "link":"https://play.google.com/store/apps/details?id=com.instagram.android"
+		},{
+		  "title":"Whatssap",
+		  "imageUrl":"https://raw.githubusercontent.com/tahaprogrammer/Test/main/s1.jpg",
+		  "link":"https://play.google.com/store/apps/details?id=com.whatsapp"
+		},{
+		  "title":"Whatssap",
+		  "imageUrl":"https://raw.githubusercontent.com/tahaprogrammer/Test/main/s1.jpg",
+		  "link":"https://play.google.com/store/apps/details?id=com.whatsapp"
+		},{
+		  "title":"Whatssap",
+		  "imageUrl":"https://raw.githubusercontent.com/tahaprogrammer/Test/main/s1.jpg",
+		  "link":"https://play.google.com/store/apps/details?id=com.whatsapp"
+		},{
+		  "title":"Whatssap",
+		  "imageUrl":"https://raw.githubusercontent.com/tahaprogrammer/Test/main/s1.jpg",
+		  "link":"https://play.google.com/store/apps/details?id=com.whatsapp"
 		}
 	
 	],
@@ -40,6 +56,6 @@
 	"popAppPackage": "cp",
 	"popAppIsActive": false,
 	
-	"disableAds":true
+	"disableAds":false
 
 }
