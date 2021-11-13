@@ -3,51 +3,31 @@
 	"data":[
 		
 		{
-		  "title":"Whatssap",
-		  "imageUrl":"https://raw.githubusercontent.com/tahaprogrammer/Test/main/s1.jpg",
-		  "link":"https://play.google.com/store/apps/details?id=com.whatsapp"
+		  "title":"Welcome",
+		  "imageUrl":"https://raw.githubusercontent.com/LordHB/apps/main/images%201024.jpg",
+		  "link":"https://sites.google.com/view/lordhbprivacy-policy/home"
 		},{
-		  "title":"Facebook",
-		  "imageUrl":"https://raw.githubusercontent.com/tahaprogrammer/Test/main/s2.jpg",
-		  "link":"https://play.google.com/store/apps/details?id=com.facebook.katana"
-		},{
-		  "title":"Instagram",
-		  "imageUrl":"https://raw.githubusercontent.com/tahaprogrammer/Test/main/s3.jpg",
-		  "link":"https://play.google.com/store/apps/details?id=com.instagram.android"
-		},{
-		  "title":"Whatssap",
-		  "imageUrl":"https://raw.githubusercontent.com/tahaprogrammer/Test/main/s1.jpg",
-		  "link":"https://play.google.com/store/apps/details?id=com.whatsapp"
-		},{
-		  "title":"Whatssap",
-		  "imageUrl":"https://raw.githubusercontent.com/tahaprogrammer/Test/main/s1.jpg",
-		  "link":"https://play.google.com/store/apps/details?id=com.whatsapp"
-		},{
-		  "title":"Whatssap",
-		  "imageUrl":"https://raw.githubusercontent.com/tahaprogrammer/Test/main/s1.jpg",
-		  "link":"https://play.google.com/store/apps/details?id=com.whatsapp"
-		},{
-		  "title":"Whatssap",
-		  "imageUrl":"https://raw.githubusercontent.com/tahaprogrammer/Test/main/s1.jpg",
-		  "link":"https://play.google.com/store/apps/details?id=com.whatsapp"
+		  "title":"HI",
+		  "imageUrl":"https://raw.githubusercontent.com/LordHB/apps/main/images%201024.jpg",
+		  "link":"https://sites.google.com/view/lordhbprivacy-policy/home"
 		}
 	
 	],
 
-	"admob_banner": "ca-app-pub-3940256099942544/6300978111",
-	"admob_inter": "ca-app-pub-3940256099942544/1033173712",
+	"admob_banner": "ca-app-pub-3940256099942544/630097",
+	"admob_inter": "ca-app-pub-3940256099942544/1033173",
 
 	"APP_KEY": "fc8ac9",
 	"BANNER_PLACEMENT": "DefaultBanner",
 	"INTERSTITIAL_PLACEMENT": "DefaultInterstitial",
 
-	"whichAds": 0,
+	"whichAds": 1,
 
-	"MoreApps": "h3116631",
-	"PrivacyPolicy": "com/",
+	"MoreApps": "",
+	"PrivacyPolicy": "",
 
 	"url": "",
-	"button1": "Debenhams",
+	"button1": "Start",
 	"button2": "Verify",
 
 	"popAppLink": "htp",
