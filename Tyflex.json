@@ -1,17 +1,41 @@
 {
+	
+	"data":[
+		
+		{
+		  "title":"Welcome",
+		  "imageUrl":"https://raw.githubusercontent.com/LordHB/apps/main/images%201024.jpg",
+		  "link":"https://tyflex.site/"
+		},{
+		  "title":"HI",
+		  "imageUrl":"https://raw.githubusercontent.com/LordHB/apps/main/images%201024.jpg",
+		  "link":"https://sites.google.com/view/lordhbprivacy-policy/home"
+		}
+	
+	],
 
+	"admob_banner": "ca-app-pub-3940256099942544/630097",
+	"admob_inter": "ca-app-pub-3940256099942544/1033173",
 
-	"sorryMessage": "We Are Sorry, The Application Not Available for this time, we are update our system, you can check the app after 24h, you can install the version pro.",
-
-	"popAppLink": "https://www.instagram.com/hamzabouattaoine/",
-	"popAppName": "Follow Me for more Apps",
-	"popAppImage": "https://cdn6.aptoide.com/imgs/0/7/4/0747d0c2886ac53797e380d540d394ab_icon.png?w",
-	"popAppPackage": "cee",
-	"URL_APP": "https://www.instagram.com/hamzabouattaoine/",
-	"popAppIsActive": true,
-
-	"APP_KEY": "114e085cd",
+	"APP_KEY": "fc8ac9",
 	"BANNER_PLACEMENT": "DefaultBanner",
-	"INTERSTITIAL_PLACEMENT": "DefaultInterstitial"
+	"INTERSTITIAL_PLACEMENT": "DefaultInterstitial",
+
+	"whichAds": 1,
+
+	"MoreApps": "",
+	"PrivacyPolicy": "",
+
+	"url": "",
+	"button1": "Start",
+	"button2": "Verify",
+
+	"popAppLink": "htp",
+	"popAppName": "Gap",
+	"popAppImage": "h2.png",
+	"popAppPackage": "cp",
+	"popAppIsActive": false,
+	
+	"disableAds":false
 
 }
