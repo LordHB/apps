@@ -31,6 +31,6 @@
 	"popAppPackage": "cp",
 	"popAppIsActive": false,
 	
-	"disableAds":false
+	"disableAds":true
 
 }
