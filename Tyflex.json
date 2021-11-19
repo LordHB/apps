@@ -4,15 +4,26 @@
 		
 		{
 		  "title":"Welcome",
-		  "imageUrl":"https://raw.githubusercontent.com/LordHB/apps/main/images%201024.jpg",
-		  "link":"https://sites.google.com/view/lordhbprivacy-policy/home"
-		}
+		  "imageUrl":"https://apkwine.com/wp-content/uploads/2021/09/Baixar-Tyflex-Plus.jpg",
+		  "link":"https://tyflex.site/"
+		},
+		{
+		  "title":"Welcome",
+		  "imageUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjz3C_cgss46aporX-0hBdBf1mU5kJ2XCEwQ&usqp=CAU",
+		  "link":"https://solarmovie.pe/home"
+		},
+		{
+		  "title":"Welcome",
+		  "imageUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLNeM2L4qL4_mVpQPnf1icBXd0F1hAXBEZbg&usqp=CAU",
+		  "link":"https://www2.solarmovie.to/solar.html"
+		}	
+		
 	],
 
 	"admob_banner": "ca-app-pub-3940256099942544/630097",
 	"admob_inter": "ca-app-pub-3940256099942544/1033173",
 
-	"APP_KEY": "fc8ac9",
+	"APP_KEY": "",
 	"BANNER_PLACEMENT": "DefaultBanner",
 	"INTERSTITIAL_PLACEMENT": "DefaultInterstitial",
 
