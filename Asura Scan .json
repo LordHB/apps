@@ -21,13 +21,13 @@
 	"popAppIsActive": true,
 
 	"BUTTON_NAME_1": "Asura Scans - Read Comics",
-	"BUTTON_NAME_2": "Manga Lists",
-	"BUTTON_NAME_3": "Comics List",
-	"BUTTON_NAME_4": "Asurascans Manga - Scans Raw",
+	"BUTTON_NAME_2": "MangaDex",
+	"BUTTON_NAME_3": "Manga Kakalot",
+	"BUTTON_NAME_4": "Manga Go",
 
 	"BUTTON_URL_1": "https://www.asurascans.com/",
-	"BUTTON_URL_2": "https://www.asurascans.com/manga/",
-	"BUTTON_URL_3": "https://www.asurascans.com/comics/",
-	"BUTTON_URL_4": "https://scansraw.com/"
+	"BUTTON_URL_2": "https://mangadex.org/",
+	"BUTTON_URL_3": "https://mangakakalot.com/",
+	"BUTTON_URL_4": "https://www.mangago.me/"
 
 }
