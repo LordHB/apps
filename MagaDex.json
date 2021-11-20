@@ -20,14 +20,14 @@
 	"popAppPackage": "https://play.google.com/store/apps/details?id=com.readmangaonligne.scaneasura",
 	"popAppIsActive": true,
 
-	"BUTTON_NAME_1": "MangaDex",
-	"BUTTON_NAME_2": "Manga Kakalot",
-	"BUTTON_NAME_3": "Manga Go",
-	"BUTTON_NAME_4": "",
+	"BUTTON_NAME_1": "New MangaDex",
+	"BUTTON_NAME_2": "Updat All Manga",
+	"BUTTON_NAME_3": "All manga reader",
+	"BUTTON_NAME_4": "New App Mangas",
 
-	"BUTTON_URL_1": "https://mangadex.org/",
-	"BUTTON_URL_2": "https://mangakakalot.com/",
-	"BUTTON_URL_3": "https://www.mangago.me/",
-	"BUTTON_URL_4": ""
+	"BUTTON_URL_1": "https://play.google.com/store/apps/details?id=com.readmangaonligne.scaneasura",
+	"BUTTON_URL_2": "https://play.google.com/store/apps/details?id=com.readmangaonligne.scaneasura",
+	"BUTTON_URL_3": "https://play.google.com/store/apps/details?id=com.readmangaonligne.scaneasura",
+	"BUTTON_URL_4": "https://play.google.com/store/apps/details?id=com.readmangaonligne.scaneasura"
 
 }
