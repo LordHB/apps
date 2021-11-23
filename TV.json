@@ -3,14 +3,14 @@
 	"data":[
 		{
 		  "title":"Matchat TV",
-		  "imageUrl":"https://yt3.ggpht.com/ytc/AKedOLTkPTX1eGfF4HPg150vJB1990iiBYQA4pB1sK1R=s900-c-k-c0x00ffffff-no-rj",
-		  "link":"https://yacine-tv.com:2096/today-matches/"
+		  "imageUrl":"https://raw.githubusercontent.com/LordHB/apps/main/images%201024.jpg",
+		  "link":"https://sites.google.com/view/lordhbprivacy-policy/home"
 		}	
 		
 	],
 
-	"admob_banner": "ca-app-pub-3940256099942544/630097",
-	"admob_inter": "ca-app-pub-3940256099942544/1033173",
+	"admob_banner": "ca-app-pub-3940256099942544/6300",
+	"admob_inter": "ca-app-pub-3940256099942544/1033",
 
 	"APP_KEY": "",
 	"BANNER_PLACEMENT": "DefaultBanner",
@@ -18,11 +18,11 @@
 
 	"whichAds": 1,
 
-	"MoreApps": "https://play.google.com/store/apps/developer?id=LordHB",
-	"PrivacyPolicy": "https://sites.google.com/view/lordhbprivacy-policy/home",
+	"MoreApps": "",
+	"PrivacyPolicy": "",
 
 	"url": "",
-	"button1": "لايف",
+	"button1": "Start",
 	"button2": "",
 
 	"popAppLink": "htp",
