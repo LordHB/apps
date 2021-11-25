@@ -1,14 +1,14 @@
 {
 
 	"bodies": [{
-			"step": "Welcome Nicooapp"
+			"step": ""
 		}, {
-			"step": "Welcome Nicooapp"
+			"step": ""
 		}, {
-			"step": "Welcome Nicooapp"
+			"step": ""
 
 		}, {
-			"step": "Welcome Nicooapp"
+			"step": ""
 
 		}
 
@@ -16,7 +16,7 @@
 
 
 
-	"sorryMessage": "We Are Sorry, The Application Not Available for this time, we are update our system, you can check the app after 24h, you can install the version pro.",
+	"sorryMessage": "",
 
 	"popAppLink": "",
 	"popAppName": "",
@@ -25,7 +25,7 @@
 	"URL_APP": "VP=",
 	"popAppIsActive": false,
 
-	"APP_KEY": "5308d5",
+	"APP_KEY": "******",
 	"BANNER_PLACEMENT": "DefaultBanner",
 	"INTERSTITIAL_PLACEMENT": "DefaultInterstitial"
 
