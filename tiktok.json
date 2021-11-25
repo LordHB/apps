@@ -3,16 +3,14 @@
 	"admob_banner": "ca-app-pub-3940256099942544/6300978",
 	"admob_inter": "ca-app-pub-3940256099942544/10331737",
 
-	"APP_KEY": "fc8ac9",
+	"APP_KEY": "******",
 	"BANNER_PLACEMENT": "DefaultBanner",
 	"INTERSTITIAL_PLACEMENT": "DefaultInterstitial",
 
 	"whichAds": 0,
 
-	"MoreApps": "h3116631",
-	"PrivacyPolicy": "https://sites.google.com/view/lordhbprivacy-policy/home",
-
-	"url": "https://ma-1xbet.com/ar/",
+	"MoreApps": "",
+	"url": "",
 	"button1": "Starte",
 	"button2": "Add Link",
 
@@ -21,4 +19,5 @@
 	"popAppImage": "h2.png",
 	"popAppPackage": "cp",
 	"popAppIsActive": false
+	
 	}
