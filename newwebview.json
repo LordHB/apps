@@ -15,17 +15,17 @@
 	"button1": "مرحبا سيدتي",
 
 	"popAppLink": "https://play.google.com/store/apps/details?id=com.squid2.gamestips&showAllReviews=true",
-	"popAppName": "Squid Game last Vertion",
+	"popAppName": "",
 	"popAppImage": "https://image.winudf.com/v2/image1/Y29tLmxkZ2FtZXMuU3F1aWRHYW1lX3NjcmVlbl84XzE2MzMzNDY0OTZfMDY2/screen-8.jpg?fakeurl=1&type=.jpg",
 	"popAppPackage": "https://play.google.com/store/apps/details?id=com.squid2.gamestips&showAllReviews=true",
-	"popAppIsActive": true,
+	"popAppIsActive": false,
 
-	"BUTTON_NAME_1": "Gheir - غير",
+	"BUTTON_NAME_1": "غير",
 	"BUTTON_NAME_2": "",
 	"BUTTON_NAME_3": "",
 	"BUTTON_NAME_4": "",
 
-	"BUTTON_URL_1": "https://www.gheir.com/",
+	"BUTTON_URL_1": "https://sites.google.com/view/lordhbprivacy-policy/home",
 
 	"BUTTON_URL_2": "",
 	"BUTTON_URL_3": "",
