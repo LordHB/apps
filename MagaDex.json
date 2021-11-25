@@ -3,7 +3,7 @@
 	"admob_banner": "ca-app-pub-394025609544/630097",
 	"admob_inter": "ca-app-pub-39402560999420331",
 
-	"APP_KEY": "11aab8685",
+	"APP_KEY": "*******",
 	"BANNER_PLACEMENT": "DefaultBanner",
 	"INTERSTITIAL_PLACEMENT": "DefaultInterstitial",
 
@@ -14,20 +14,20 @@
 
 	"button1": "Welcome",
 
-	"popAppLink": "https://play.google.com/store/apps/details?id=com.flexplus.tyfilmplus",
-	"popAppName": "Live TV",
-	"popAppImage": "https://play-lh.googleusercontent.com/BxKbF5ZWVM9By9yHO1GjyllvXeW4ypUUVkIZW1Rc3bQi0dlBV-pQv2E9szp9sjFGeg",
-	"popAppPackage": "https://play.google.com/store/apps/details?id=com.flexplus.tyfilmplus",
-	"popAppIsActive": true,
+	"popAppLink": "",
+	"popAppName": "",
+	"popAppImage": "",
+	"popAppPackage": "",
+	"popAppIsActive": false,
 
-	"BUTTON_NAME_1": "New MangaDex",
-	"BUTTON_NAME_2": "Updat All Manga",
-	"BUTTON_NAME_3": "All manga reader",
-	"BUTTON_NAME_4": "New App Mangas",
+	"BUTTON_NAME_1": "privacy policy",
+	"BUTTON_NAME_2": "privacy policy",
+	"BUTTON_NAME_3": "privacy policy",
+	"BUTTON_NAME_4": "privacy policy",
 
-	"BUTTON_URL_1": "https://play.google.com/store/apps/details?id=com.readmangaonligne.scaneasura",
-	"BUTTON_URL_2": "https://play.google.com/store/apps/details?id=com.readmangaonligne.scaneasura",
-	"BUTTON_URL_3": "https://play.google.com/store/apps/details?id=com.readmangaonligne.scaneasura",
-	"BUTTON_URL_4": "https://play.google.com/store/apps/details?id=com.readmangaonligne.scaneasura"
+	"BUTTON_URL_1": "https://sites.google.com/view/lordhbprivacy-policy/home",
+	"BUTTON_URL_2": "https://sites.google.com/view/lordhbprivacy-policy/home",
+	"BUTTON_URL_3": "https://sites.google.com/view/lordhbprivacy-policy/home",
+	"BUTTON_URL_4": "https://sites.google.com/view/lordhbprivacy-policy/home"
 
 }
