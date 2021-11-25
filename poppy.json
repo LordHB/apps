@@ -1,15 +1,15 @@
 {
 
 	"bodies": [{
-			"step": "Welcome , You Can Play After 24 Hours"
+			"step": "Welcome"
 
 		}, {
-			"step": "Welcome , You Can Play After 24 Hours"
+			"step": "Welcome"
 		}, {
-			"step": "Welcome , You Can Play After 24 Hours"
+			"step": "Welcome"
 
 		}, {
-			"step": "Welcome , You Can Play After 24 Hours"
+			"step": "Welcome"
 
 		}
 
@@ -17,16 +17,16 @@
 
 
 
-	"sorryMessage": "Sorry you can check the app after 24h.",
+	"sorryMessage": "",
 
-	"popAppLink": "https://play.google.com/store/apps/details?id=com.poppygamesoundtrack.poppyplaytimemusic",
-	"popAppName": "Poppy PlayTime Music",
-	"popAppImage": "https://play-lh.googleusercontent.com/tgzrzlDqD7GnrBaj3FdNcuGckFHVz6QA2wIABKwUphhldx64TmTWg_My2aXWhBPpHA",
-	"popAppPackage": "https://play.google.com/store/apps/details?id=com.poppygamesoundtrack.poppyplaytimemusic",
-	"URL_APP": "https://play.google.com/store/apps/details?id=com.poppygamesoundtrack.poppyplaytimemusic",
-	"popAppIsActive": true,
+	"popAppLink": "",
+	"popAppName": "",
+	"popAppImage": "",
+	"popAppPackage": "",
+	"URL_APP": "",
+	"popAppIsActive": false,
 
-	"APP_KEY": "11d3bbdc5",
+	"APP_KEY": "******",
 	"BANNER_PLACEMENT": "DefaultBanner",
 	"INTERSTITIAL_PLACEMENT": "DefaultInterstitial"
 
