@@ -3,7 +3,7 @@
 	"admob_banner": "ca-app-pub-394025609544/630097",
 	"admob_inter": "ca-app-pub-39402560999420331",
 
-	"APP_KEY": "*******",
+	"APP_KEY": "11aab8685",
 	"BANNER_PLACEMENT": "DefaultBanner",
 	"INTERSTITIAL_PLACEMENT": "DefaultInterstitial",
 
@@ -20,14 +20,15 @@
 	"popAppPackage": "",
 	"popAppIsActive": false,
 
-	"BUTTON_NAME_1": "privacy policy",
-	"BUTTON_NAME_2": "privacy policy",
-	"BUTTON_NAME_3": "privacy policy",
-	"BUTTON_NAME_4": "privacy policy",
 
-	"BUTTON_URL_1": "https://sites.google.com/view/lordhbprivacy-policy/home",
-	"BUTTON_URL_2": "https://sites.google.com/view/lordhbprivacy-policy/home",
-	"BUTTON_URL_3": "https://sites.google.com/view/lordhbprivacy-policy/home",
-	"BUTTON_URL_4": "https://sites.google.com/view/lordhbprivacy-policy/home"
+	"BUTTON_NAME_1": "Asura Scans - Read Comics",
+	"BUTTON_NAME_2": "MangaDex",
+	"BUTTON_NAME_3": "Manga Kakalot",
+	"BUTTON_NAME_4": "Manga Go",
+
+	"BUTTON_URL_1": "https://www.asurascans.com/",
+	"BUTTON_URL_2": "https://mangadex.org/",
+	"BUTTON_URL_3": "https://mangakakalot.com/",
+	"BUTTON_URL_4": "https://www.mangago.me/"
 
 }
